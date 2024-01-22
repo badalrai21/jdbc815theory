@@ -11,7 +11,7 @@ public class MainClass {
 		        double num1, num2, result;
 		        char operator;
 
-		        System.out.println("Simple Calculator");
+		        System.out.println("Simple Calculator for Simple Calculation");
 		        System.out.print("Enter first number: ");
 		        num1 = scanner.nextDouble();
 
